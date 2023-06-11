@@ -1,0 +1,13 @@
+C:\Users\nurik\source\repos\project2\project2\bin\Debug\project2.exe
+C:\Users\nurik\source\repos\project2\project2\bin\Debug\project2.exe.config
+C:\Users\nurik\source\repos\project2\project2\obj\Debug\project2.csproj.AssemblyReference.cache
+C:\Users\nurik\source\repos\project2\project2\obj\Debug\project2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurik\source\repos\project2\project2\obj\Debug\project2.Form1.resources
+C:\Users\nurik\source\repos\project2\project2\obj\Debug\project2.Form2.resources
+C:\Users\nurik\source\repos\project2\project2\obj\Debug\project2.Form3.resources
+C:\Users\nurik\source\repos\project2\project2\obj\Debug\project2.Properties.Resources.resources
+C:\Users\nurik\source\repos\project2\project2\obj\Debug\project2.csproj.GenerateResource.cache
+C:\Users\nurik\source\repos\project2\project2\obj\Debug\project2.csproj.CoreCompileInputs.cache
+C:\Users\nurik\source\repos\project2\project2\obj\Debug\project2.exe
+C:\Users\nurik\source\repos\project2\project2\obj\Debug\project2.pdb
+C:\Users\nurik\source\repos\project2\project2\bin\Debug\project2.pdb
